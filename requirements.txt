@@ -2,6 +2,9 @@ llama-index
 python-dotenv
 html2text
 google-generativeai
-
-
+llama-index-llms-gemini
+pypdf
 scikit-learn
+IPython
+llama-index-embeddings-gemini
+streamlit
