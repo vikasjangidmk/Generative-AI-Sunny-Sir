@@ -1,0 +1,7 @@
+llama-index
+python-dotenv
+html2text
+google-generativeai
+
+
+scikit-learn
