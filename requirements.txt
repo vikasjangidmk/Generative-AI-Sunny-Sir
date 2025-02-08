@@ -8,7 +8,11 @@ scikit-learn
 IPython
 llama-index-embeddings-gemini
 streamlit
-
+langchain
+openai
+tiktoken
+rapidocr-onnxruntime
+langchain-community
 
 
 
