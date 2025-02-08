@@ -8,3 +8,10 @@ scikit-learn
 IPython
 llama-index-embeddings-gemini
 streamlit
+
+
+
+
+
+
+#-e .
