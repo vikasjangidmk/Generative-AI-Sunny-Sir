@@ -15,8 +15,15 @@ rapidocr-onnxruntime
 langchain-community
 sentence-transformers
 
+#Multilingual AI based Voice Assistant
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
+google-generativeai
+python-dotenv
+streamlit
 
 
 
-
-#-e .
+-e .

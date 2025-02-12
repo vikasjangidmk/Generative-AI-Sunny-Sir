@@ -1,0 +1,12 @@
+#Multilingual AI based Voice Assistant
+SpeechRecognition
+pipwin
+pyaudio
+gTTS
+google-generativeai
+python-dotenv
+streamlit
+
+
+
+-e .
