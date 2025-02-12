@@ -13,6 +13,7 @@ openai
 tiktoken
 rapidocr-onnxruntime
 langchain-community
+sentence-transformers
 
 
 
