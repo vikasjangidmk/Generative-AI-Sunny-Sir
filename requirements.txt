@@ -26,4 +26,27 @@ streamlit
 
 
 
--e .
+
+#Multimodel
+llama-index-vector-stores-lancedb
+llama-index-multi-modal-llms-openai
+llama-index-embeddings-clip
+#git+https://github.com/openai/CLIP.git
+llama-index-readers-file
+llama_index
+openai-whisper
+lancedb
+moviepy
+pytube
+pydub
+SpeechRecognition
+ffmpeg-python
+soundfile
+torch
+torchvision
+matplotlib
+scikit-image
+ftfy
+regex
+tqdm
+unstructured
